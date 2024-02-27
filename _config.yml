@@ -1,9 +1,9 @@
 # Site settings
-title: Summer School on modeling and complex systems 2023
+title: Summer School on modeling and complex systems 2024
 # email: angel.marchev@feb.uni-sofia.bg
-description: 14 - 23 July, Semkovo, Rila Mountain
+description: 21 - 30 June, Gyulechica, Rila Mountain
 # baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://marchev-science.github.io/Summer.School.2023/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://marchev-science.github.io/Summer.School.2024/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: marchev-games
 github_username:  angel-marchev
 
