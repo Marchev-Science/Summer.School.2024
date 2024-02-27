@@ -1,9 +1,147 @@
 # Programme  
 
 The programme is subject to constant change, so make sure to check it regularly. All supporting materials and recorded videos are linked in the classes.  
-You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl9v7BA0HCjbFffJC7Jnd3KIzAd0)  
+You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)  
 
 
+## **2024-06-21 Openning**  
+  before 18:30 Accomodation   
+  18:30 - 19:30 Organizational issues  
+  19:30 - 21:00 Networking exercise  
+
+
+## **2024-06-22 Fundamentals**  
+  09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research  
+  
+<a/>  
+
+  14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments for modeling  
+  
+<a/>  
+
+17:00 - 19:30 Workshop: Explaining the cases    
+  
+
+## **2024-06-23 Fundamentals**  
+  09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (Online)  
+
+<a/>  
+
+  14:00 - 17:00 Workshop: Boris Kirov - Introduction to prompt engineering for data analysis  
+
+<a/>  
+
+  17:00 - 19:30 Workshop: Teamwork on case assignments  
+  
+
+## **2024-06-24 Fundamentals**  
+  09:30 - 11:00 Martin Minchev - Introduction to probability  
+
+<a/>  
+
+  11:30 - 13:00 Kaloyan Haralampiev - Bayesian paradigm  
+
+<a/>  
+
+  14:00 - 17:00 Workshop: Angel Marchev, Jr. - Data synthesis / feature engineering  
+ 
+<a/>  
+
+  17:00 - 19:30 Workshop: Teamwork on case assignments  
+  
+
+## **2024-06-25 Machine Learning concepts**  
+  09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks  
+
+<a/>  
+
+  14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data  
+
+<a/>  
+
+  17:00 - 19:30 Workshop: Teamwork on case assignments  
+  
+
+## **2024-06-26 Machine Learning concepts**  
+  09:30 - 10:30 Alexander Efremov - Working with imbalanced target data  
+
+<a/>  
+
+  10:45 - 11:45 Alexander Efremov - Principle component analysis  
+
+<a/>  
+
+  12:00 - 13:00 Alexander Efremov - Approaches for variable selection  
+
+<a/>  
+
+  14:00 - 17:00 Workshop: TBD - TBD  
+
+<a/>  
+
+  17:30 - 19:30 Workshop: Teamwork on case assignments  
+
+
+## **2024-06-27 Machine Learning concepts**  
+  09:30 - 11:00 TBD - TBD  
+
+<a/>  
+
+  11:30 - 13:00 TBD - TBD  
+
+<a/>  
+
+  14:00 - 17:00 Workshop: TBD - TBD  
+
+<a/>  
+
+  17:30 - 19:30 Workshop: Teamwork on case assignments  
+
+  
+## **2024-06-28 Artificial Neural Networks**  
+  09:30 - 11:00 TBD - TBD  
+
+<a/>  
+
+  11:30 - 13:00 TBD - TBD  
+
+<a/>  
+
+  14:30 - 17:00 Workshop: TBD - TBD   
+
+<a/>  
+
+  17:00 - 19:30 Workshop: Teamwork on case assignments  
+
+  
+## **2024-06-29 Self-organization & adaptation**  
+  09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization   
+
+<a/>  
+
+  14:00 - 17:00 TBD - TBD  
+
+<a/>  
+
+  17:30 - 19:30 Workshop: Teamwork on case assignments    
+
+  
+## **2024-06-30 Perspectives**  
+  09:30 - 11:00 TBD - Advanced PhD presentation    
+
+<a/>  
+
+  11:30 - 13:00 A word from our partners:   
+
+<a/>  
+  
+  14:00 - 17:00 Conference - presentation of the solutions to the case assignments   
+
+<a/>  
+
+  17:00 - 17:30 Closing ceremony  
+
+<!--
 ## **2023-07-14 Openning**  
   before 18:30 Accomodation   
   18:30 - 19:30 Organizational issues  
@@ -215,3 +353,5 @@ You could see the [video playlist...](https://youtube.com/playlist?list=PLX9ryRl
 <a/>  
 
   17:00 - 17:30 Closing ceremony  
+
+  -->
