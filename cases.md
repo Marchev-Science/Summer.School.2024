@@ -1,7 +1,7 @@
 The cases will apear here on the first day of the Summer scool.
 
-<--
-## Delivery of the case solutions:
+
+<!--## Delivery of the case solutions:
 
 1. Before the deadline (13:00,23.07.2023) you should deliver the solutions [here...](https://forms.gle/3Gkw4rAErSFa4tFh8)
 2. The solution should consist of several files (4-5 max) without subfolders, at least the following:  
@@ -28,6 +28,5 @@ The cases for this year's Summer school are going to be revieled here on the sec
 
 ### 3. Cold start modeling.     
 
-[Case text and data...](https://github.com/Marchev-Science/case-cold-start-modeling) => [Case solution](cases-solutions/case3/readme.md)   
+[Case text and data...](https://github.com/Marchev-Science/case-cold-start-modeling) => [Case solution](cases-solutions/case3/readme.md)-->
 
--->
