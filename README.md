@@ -1,5 +1,5 @@
 
-# Summer School on Modeling and Complex Systems '2024
+# Summer School on Modeling, AI, and Complex Systems '2024
 
 
 **Organized by**
