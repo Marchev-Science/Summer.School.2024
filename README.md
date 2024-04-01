@@ -23,11 +23,11 @@
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <th><img src="img/KBC_GS_logo_colors_RGB.png" width="200"></th>
-    <!--<th><img src="img/manasievi.jpg" width="200"></th>-->
+    <th><a href="mailto:angel.marchev@feb.uni-sofia.bg?subject = Partnership&body = Message"><img src="https://www.ethicalreading.org.uk/wp-content/uploads/2023/02/PARTNERAsset-48.svg" width="200"></a></th>
   </tr>
   <tr>
     <td>KBC Bank</td>
-    <!--<td>Svetoslav & Emanuil Manasievi</td>-->
+    <td></td>
   </tr>
  </table>
 
@@ -72,7 +72,7 @@ Participation in the Summer school is free of charge (accomodation is partially 
 ## Accomodation  
 **Travel**: The trip is up to the participants to organize on their own (while some coordination effort will be done for optimizing the travel organization. Everyone should arrive by **18:30, on 21 June, Friday**, at the main entrance of the complex.    
   
-**Accommodation**: The students are accommodated in pairs / threes / fours in a room in the complex. Accomodation and full meals are aranged (the cost per person per night is to be finalized soon). Out of which reasonable part **is covered by the organizers**. The layout of the rooms will be set by the organizers and can not be changed.   
+**Accommodation**: The students are accommodated in pairs / threes / fours in a room in the complex. Accomodation and full meals are aranged (the cost per person per night is to be finalized soon). Out of which reasonable part **is covered by the organizers** (further financial details will be revieled in June). The layout of the rooms will be set by the organizers and can not be changed.   
   
 **Daily schedule**:  
 08:00 - 09:00 Breakfast  
