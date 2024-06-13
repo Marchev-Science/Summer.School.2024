@@ -133,11 +133,11 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 
 <a/>  
 
-  14:00 - 15:00 Peter Nikolov - TBD  
+  14:00 - 16:00 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization  
 
 <a/>  
 
-  14:00 - 17:00 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization  
+  16:00 - 17:00 Peter Nikolov - Practical introduction to quantum computing  
 
 <a/>  
 
