@@ -92,7 +92,7 @@ After 17:00 working on team assignment"
 **Acknowledgement**: This Summer school is partially funded by  
 ***Science and research Fund at Sofia University contract 80-10-107/16.4.2024***;  
 ***University of National and World Economy contract NID NF-10/2024/B***;   
-***Plovdiv University contract***.  
+***European Union-NextGenerationEU, through the National Recovery and Resilience Plan of the Republic of Bulgaria, project DUECOS BG-RRP-2.004-0001-C01***.  
 
 
 ## Certification  
