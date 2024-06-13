@@ -6,7 +6,13 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 
 ## **2024-06-21 Openning**  
   before 19:30 Accomodation   
+  
+<a/>  
+
   20:00 - 20:30 Organizational issues  
+  
+<a/>  
+
   20:30 - 21:00 Networking exercise  
 
 
