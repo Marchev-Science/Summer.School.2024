@@ -151,7 +151,7 @@ All students should make sure to watch [these materials in advance...](https://w
 * Martin Boyanov -  (mboyanov@gmail.com)
 * Milen Chechev - SU (milen.chechev@fmi.uni-sofia.bg)  
 * Mihail Motzev - WWU (Mihail.Motzev@wallawalla.edu)
-* Nikolay Dimitrov - FetchAI (..)     
+* Nikolay Dimitrov - FetchAI (nikolay.dimitrov@fetch.ai)     
 * Pavel Nikolov - Johnson Controls (pavelnnikolov@gmail.com)  
 * Petar Nikolov -  (petarnikolov1989@gmail.com)
 * Radoslav Rusinov - UNWE (rusinovr@abv.bg)  
