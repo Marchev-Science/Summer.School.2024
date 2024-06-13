@@ -141,20 +141,27 @@ All students should make sure to watch [these materials in advance...](https://w
 * Alexander Efremov (aefremov@gmail.com)  
 * Angel Marchev Jr. (angel.marchev@feb.uni-sofia.bg)  
 * Angel Marchev Sr. (angel_marchev@yahoo.co.uk)
-* Boris Kirov (boris.kirov@tu-sofia.bg)  
-* Demir Tonchev (tonchev.demir@gmail.com)   
-* Kaloyan Haralampiev (k_haralampiev@hotmail.com)  
-* Martin Minchev (mjminchev@fmi.uni-sofia.bg)     
+* Boryana Pelova (bpelova@feb.uni-sofia.bg)
+* Boyan Markov (boyanmarkov@gmail.com)   
+* Demir Tonchev (tonchev.demir@gmail.com)
+* Deyan Radev (d.radev@feb.uni-sofia.bg)  
+* Evgeni Marinov (marinov.evgeniy@gmail.com)   
+* Kaloyan Haralampiev (k_haralampiev@hotmail.com)
+* Laura Tolosi (laura-maria.tolosi-halacheva01@teva.bg)
+* Martin Boyanov (...)
+* Milen Chechev (...)  
 * Mihail Motzev (Mihail.Motzev@wallawalla.edu)
 * Pavel Nikolov (pavelnnikolov@gmail.com)  
-* Petar Nikolov (petarnikolov1989@gmail.com)  
+* Petar Nikolov (petarnikolov1989@gmail.com)
+* Radoslav Rusinov (rusinovr@abv.bg)  
+* Sergey Vichev (serjvichev@gmail.com)  
 * Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)  
-* the list is inconclusive
-<!--* Bogomil Filipov (filipov.bogomil@gmail.com)   
-* Boyan Markov (boyanmarkov@gmail.com)   
-* Deyan Radev (d.radev@feb.uni-sofia.bg)
-* Irem Yaman (irem.yaman2@kbc.com)   
-* Sergey Vichev (serjvichev@gmail.com)-->   
+* Tsvetana Spassova (tsvetana.spasova@fhnw.ch)  
+* Yasen Kiprov (...)  
+
+
+
+* Nikolay Dimitrov (..)     
 
   
 **Archives**:  
