@@ -7,18 +7,18 @@
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <th><img src="img/small_logo_feba.png"></th>
-    <th><img src="img/small_logo_unwe.png" width="100"></th>
+    <td>FEBA Faculty of Economics and Business Administration, Sofia University "St. Kliment Ohridski"<br><a href="https://feba.uni-sofia.bg/">https://feba.uni-sofia.bg/</a></td>
    </tr>
   <tr>
-    <td>FEBA Faculty of Economics and Business Administration, Sofia University "St. Kliment Ohridski"<br><a href="https://feba.uni-sofia.bg/">https://feba.uni-sofia.bg/</a></td>
+    <th><img src="img/small_logo_unwe.png" width="100"></th>
     <td>FMA Faculty of Management and Administration, University for National and World Economy<br><a href="https://unwe.bg">https://unwe.bg</a></td>
   </tr>
     <tr>
     <th><img src="img/small_logo_pu.png"></th>
-    <th><img src="img/small_logo_fdiba.png"></th>
+    <td>FESS Faculty of Economics and Social Sciences, Plovdiv University "St. Paisii Hilendarski"<br><a href="https://fisn.uni-plovdiv.bg/">https://feba.uni-sofia.bg/</a></td>
    </tr>
   <tr>
-    <td>FESS Faculty of Economics and Social Sciences, Plovdiv University "St. Paisii Hilendarski"<br><a href="https://fisn.uni-plovdiv.bg/">https://feba.uni-sofia.bg/</a></td>
+    <th><img src="img/small_logo_fdiba.png"></th>
     <td>FDIBA German Engineering and Industrial Management Faculty, Technical University - Sofia<br><a href="https://fdiba.tu-sofia.bg/">https://fdiba.tu-sofia.bg/</a></td>
    </tr>
  </table>
