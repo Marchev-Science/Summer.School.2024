@@ -148,7 +148,7 @@ All students should make sure to watch [these materials in advance...](https://w
 * Evgeni Marinov - Bosch (marinov.evgeniy@gmail.com)   
 * Kaloyan Haralampiev - SU (k_haralampiev@hotmail.com)
 * Laura Tolosi - Teva Pharma (laura-maria.tolosi-halacheva01@teva.bg)
-* Martin Boyanov -  (...)
+* Martin Boyanov -  (mboyanov@gmail.com)
 * Milen Chechev - SU (milen.chechev@fmi.uni-sofia.bg)  
 * Mihail Motzev - WWU (Mihail.Motzev@wallawalla.edu)
 * Nikolay Dimitrov - FetchAI (..)     
