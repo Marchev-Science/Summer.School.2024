@@ -11,10 +11,10 @@
    </tr>
   <tr>
     <th><img src="img/small_logo_unwe.png" width="100"></th>
-    <td>FMA Faculty of Management and Administration, University for National and World Economy<br><a href="https://unwe.bg">https://unwe.bg</a></td>
+    <td>FMA Faculty of Management and Administration, University for National and World Economy<br><a href="https://faculties.unwe.bg/management/en/pages/1590/history.html">https://faculties.unwe.bg/management/en/</a></td>
   </tr>
     <tr>
-    <th><img src="img/small-logo-pu.png"></th>
+    <th><img src="img/small-logo-pu.png" heigth="100"></th>
     <td>FESS Faculty of Economics and Social Sciences, Plovdiv University "St. Paisii Hilendarski"<br><a href="https://fisn.uni-plovdiv.bg/">https://feba.uni-sofia.bg/</a></td>
    </tr>
   <tr>
