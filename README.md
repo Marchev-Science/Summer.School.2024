@@ -117,7 +117,7 @@ Apart from concentrating during the classes, the aproved participants should mak
 * Orange [https://orange.biolab.si/download/](https://orange.biolab.si/download/)  
 <!--* KNIME [https://www.knime.com/downloads](https://www.knime.com/downloads)-->  
 * Registration in Github [https://github.com](https://github.com)
-* Registration in ChatGPT [https://chat.openai.com](https://chat.openai.com)
+* Registration in ChatGPT (preferably paid) [https://chat.openai.com](https://chat.openai.com)
 <!--* Zoom [https://zoom.com](https://zoom.com) with installed personal photo-->  
 
 <a/>
@@ -149,16 +149,16 @@ All students should make sure to watch [these materials in advance...](https://w
 * Kaloyan Haralampiev - SU (k_haralampiev@hotmail.com)
 * Laura Tolosi - Teva Pharma (laura-maria.tolosi-halacheva01@teva.bg)
 * Martin Boyanov -  (...)
-* Milen Chechev - SU (...)  
+* Milen Chechev - SU (milen.chechev@fmi.uni-sofia.bg)  
 * Mihail Motzev - WWU (Mihail.Motzev@wallawalla.edu)
 * Nikolay Dimitrov - FetchAI (..)     
-* Pavel Nikolov -  (pavelnnikolov@gmail.com)  
+* Pavel Nikolov - Johnson Controls (pavelnnikolov@gmail.com)  
 * Petar Nikolov -  (petarnikolov1989@gmail.com)
 * Radoslav Rusinov - UNWE (rusinovr@abv.bg)  
 * Sergey Vichev - CrispLabs (serjvichev@gmail.com)  
 * Stanimir Kabaivanov - PU (stanimir.kabaivanov@gmail.com)  
 * Tsvetana Spassova - ETH (tsvetana.spasova@fhnw.ch)  
-* Yasen Kiprov - SiteGround (...)  
+* Yasen Kiprov - SiteGround (yasen.kiprov@gmail.com)  
 
 
   
