@@ -138,30 +138,28 @@ All students should make sure to watch [these materials in advance...](https://w
 <img src="img/round.png" width="200px" align="right">  
 
 **Lecturers**:  
-* Alexander Efremov (aefremov@gmail.com)  
-* Angel Marchev Jr. (angel.marchev@feb.uni-sofia.bg)  
-* Angel Marchev Sr. (angel_marchev@yahoo.co.uk)
-* Boryana Pelova (bpelova@feb.uni-sofia.bg)
-* Boyan Markov (boyanmarkov@gmail.com)   
-* Demir Tonchev (tonchev.demir@gmail.com)
-* Deyan Radev (d.radev@feb.uni-sofia.bg)  
-* Evgeni Marinov (marinov.evgeniy@gmail.com)   
-* Kaloyan Haralampiev (k_haralampiev@hotmail.com)
-* Laura Tolosi (laura-maria.tolosi-halacheva01@teva.bg)
-* Martin Boyanov (...)
-* Milen Chechev (...)  
-* Mihail Motzev (Mihail.Motzev@wallawalla.edu)
-* Pavel Nikolov (pavelnnikolov@gmail.com)  
-* Petar Nikolov (petarnikolov1989@gmail.com)
-* Radoslav Rusinov (rusinovr@abv.bg)  
-* Sergey Vichev (serjvichev@gmail.com)  
-* Stanimir Kabaivanov (stanimir.kabaivanov@gmail.com)  
-* Tsvetana Spassova (tsvetana.spasova@fhnw.ch)  
-* Yasen Kiprov (...)  
+* Alexander Efremov - TU Sofia (aefremov@gmail.com)  
+* Angel Marchev Jr. - UNWE, SU (angel.marchev@feb.uni-sofia.bg)  
+* Angel Marchev Sr. - UNWE (angel_marchev@yahoo.co.uk)
+* Boryana Pelova - SU (bpelova@feb.uni-sofia.bg)
+* Boyan Markov - UNWE (boyanmarkov@gmail.com)   
+* Demir Tonchev -  (tonchev.demir@gmail.com)
+* Deyan Radev - SU (d.radev@feb.uni-sofia.bg)  
+* Evgeni Marinov - Bosch (marinov.evgeniy@gmail.com)   
+* Kaloyan Haralampiev - SU (k_haralampiev@hotmail.com)
+* Laura Tolosi - Teva Pharma (laura-maria.tolosi-halacheva01@teva.bg)
+* Martin Boyanov -  (...)
+* Milen Chechev - SU (...)  
+* Mihail Motzev - WWU (Mihail.Motzev@wallawalla.edu)
+* Nikolay Dimitrov - FetchAI (..)     
+* Pavel Nikolov -  (pavelnnikolov@gmail.com)  
+* Petar Nikolov -  (petarnikolov1989@gmail.com)
+* Radoslav Rusinov - UNWE (rusinovr@abv.bg)  
+* Sergey Vichev - CrispLabs (serjvichev@gmail.com)  
+* Stanimir Kabaivanov - PU (stanimir.kabaivanov@gmail.com)  
+* Tsvetana Spassova - ETH (tsvetana.spasova@fhnw.ch)  
+* Yasen Kiprov - SiteGround (...)  
 
-
-
-* Nikolay Dimitrov (..)     
 
   
 **Archives**:  
