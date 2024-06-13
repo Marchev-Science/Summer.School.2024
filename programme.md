@@ -5,109 +5,117 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 
 
 ## **2024-06-21 Openning**  
-  before 18:30 Accomodation   
-  18:30 - 19:30 Organizational issues  
-  19:30 - 21:00 Networking exercise  
+  before 19:30 Accomodation   
+  20:00 - 20:30 Organizational issues  
+  20:30 - 21:00 Networking exercise  
 
 
 ## **2024-06-22 Fundamentals**  
-  09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research  
+  09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (Online)  
   
 <a/>  
 
-  14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments for modeling  
+  14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments & GPT prompting for modeling  
   
 <a/>  
 
 17:00 - 19:30 Workshop: Explaining the cases    
   
 
-## **2024-06-23 Fundamentals**  
-  09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (Online)  
-
-<a/>  
-
-  14:00 - 17:00 Workshop: Boris Kirov - Introduction to prompt engineering for data analysis  
-
-<a/>  
-
-  17:00 - 19:30 Workshop: Teamwork on case assignments  
-  
-
-## **2024-06-24 Fundamentals**  
-  09:30 - 11:00 Martin Minchev - Introduction to probability  
-
-<a/>  
-
-  11:30 - 13:00 Kaloyan Haralampiev - Bayesian paradigm  
-
-<a/>  
-
-  14:00 - 17:00 Workshop: Angel Marchev, Jr. - Data synthesis / feature engineering  
- 
-<a/>  
-
-  17:00 - 19:30 Workshop: Teamwork on case assignments  
-  
-
-## **2024-06-25 Machine Learning concepts**  
+## **2024-06-23 Data mining**  
   09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks  
 
 <a/>  
 
-  14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data  
+  14:00 - 17:00 Workshop: Workshop: Kaloyan Haralampiev - Introduction to Orange with static data  
 
 <a/>  
 
   17:00 - 19:30 Workshop: Teamwork on case assignments  
   
 
-## **2024-06-26 Machine Learning concepts**  
-  09:30 - 10:30 Alexander Efremov - Working with imbalanced target data  
+## **2024-06-24 Probabilities**  
+  09:30 - 10:30 Radoslav Rusinov - Introduction to probability  
 
 <a/>  
 
-  10:45 - 11:45 Alexander Efremov - Principle component analysis  
+  10:45 - 11:45 Kaloyan Haralampiev - Bayesian paradigm  
 
 <a/>  
 
-  12:00 - 13:00 Alexander Efremov - Approaches for variable selection  
+  12:00 - 13:00 Tsvetana Spassova - Statistical testing  
+
+<a/>  
+   
+  14:00 - 15:30 Kaloyan Haralampiev, Angel Marchev, Jr. - Time series analysis basics    
+ 
+<a/>  
+
+  15:30 - 17:00 Kaloyan Haralampiev - Time series case study: Fourier transform  
+ 
+ <a/>  
+
+  17:00 - 19:30 Workshop: Teamwork on case assignments  
+  
+
+## **2024-06-25 Complexity**  
+  09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (Online)  
 
 <a/>  
 
-  14:00 - 17:00 Workshop: TBD - TBD  
+  14:00 - 15:00 Workshop: Deyan Radev - Writting a scientific article (Online)      
+
+<a/>  
+
+  15:00 - 17:00 Workshop: Angel Marchev, Jr. - Feature engineering  
+
+<a/>  
+
+  17:00 - 19:30 Workshop: Teamwork on case assignments  
+  
+
+## **2024-06-26 Applications**  
+  09:30 - 11:00 Milen Chechev - Current forecasting approaches and challenges (Online)  
+
+<a/>  
+
+  11:30 - 13:00 Martin Boyanov - Introduction to LLMs, RAG & llm2vec  
+
+<a/>  
+
+  14:00 - 17:00 Workshop: Yasen Kiprov - AI for coding (Online)  
 
 <a/>  
 
   17:30 - 19:30 Workshop: Teamwork on case assignments  
 
 
-## **2024-06-27 Machine Learning concepts**  
-  09:30 - 11:00 TBD - TBD  
+## **2024-06-27 Artificial Neural Networks**  
+  09:30 - 11:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks (Online)  
 
 <a/>  
 
-  11:30 - 13:00 TBD - TBD  
+  11:30 - 13:00 Mihail Motzev - Statistical Learning Networks (Online)  
 
 <a/>  
 
-  14:00 - 17:00 Workshop: TBD - TBD  
+  14:00 - 17:00 Workshop: Evgeni Marinov - Graph artificial neural networks (Online)  
 
 <a/>  
 
   17:30 - 19:30 Workshop: Teamwork on case assignments  
 
   
-## **2024-06-28 Artificial Neural Networks**  
-  09:30 - 11:00 TBD - TBD  
+## **2024-06-28 Artificial Intelligence**  
+  09:30 - 11:00 Angel Marchev, Jr. - Introduction to artificial intelligence    
 
 <a/>  
 
-  11:30 - 13:00 TBD - TBD  
+  11:30 - 13:00 Laura Tolosi - LLMs & NLP (Online)   
 
 <a/>  
 
-  14:30 - 17:00 Workshop: TBD - TBD   
+  14:30 - 17:00 Workshop: Demir Tonchev - Workshop: Make your own AI      
 
 <a/>  
 
@@ -119,7 +127,11 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 
 <a/>  
 
-  14:00 - 17:00 TBD - TBD  
+  14:00 - 15:00 Peter Nikolov - TBD  
+
+<a/>  
+
+  14:00 - 17:00 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization  
 
 <a/>  
 
@@ -127,11 +139,15 @@ You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9
 
   
 ## **2024-06-30 Perspectives**  
-  09:30 - 11:00 TBD - Advanced PhD presentation    
+  09:30 - 10:30 Sergey Vichev - RAGSQL: the concept    
 
 <a/>  
 
-  11:30 - 13:00 A word from our partners:   
+  10:45 - 11:45 Boryana Pelova - Wavelet and charmonic Analysis    
+
+<a/>  
+
+  11:30 - 13:00 Nikolay Dimitrov - FetchAI: AI + Crypto   
 
 <a/>  
   
