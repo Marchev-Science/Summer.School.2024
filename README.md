@@ -14,7 +14,7 @@
     <td>FMA Faculty of Management and Administration, University for National and World Economy<br><a href="https://unwe.bg">https://unwe.bg</a></td>
   </tr>
     <tr>
-    <th><img src="img/small_logo_pu.png"></th>
+    <th><img src="img/small-logo-pu.png"></th>
     <td>FESS Faculty of Economics and Social Sciences, Plovdiv University "St. Paisii Hilendarski"<br><a href="https://fisn.uni-plovdiv.bg/">https://feba.uni-sofia.bg/</a></td>
    </tr>
   <tr>
