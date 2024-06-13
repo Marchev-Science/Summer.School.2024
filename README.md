@@ -29,7 +29,7 @@
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <th><img src="img/KBC_GS_logo_colors_RGB.png" width="200"></th>
-    <th><a href="mailto:angel.marchev@feb.uni-sofia.bg?subject=Partnership"><img src="https://www.ethicalreading.org.uk/wp-content/uploads/2023/02/PARTNERAsset-48.svg" width="200"></a></th>
+    <th><a href="mailto:angel.marchev@feb.uni-sofia.bg?subject=SummerSchoolPartnership"><img src="https://www.ethicalreading.org.uk/wp-content/uploads/2023/02/PARTNERAsset-48.svg" width="200"></a></th>
   </tr>
   <tr>
     <td>KBC Bank</td>
