@@ -139,12 +139,12 @@ All students should make sure to watch [these materials in advance...](https://w
 <img src="img/round.png" width="200px" align="right">  
 
 **Lecturers**:  
-* Alexander Efremov - TU Sofia (aefremov@gmail.com)  
+* Alexander Efremov - TU Sofia, Autegrity (aefremov@gmail.com)  
 * Angel Marchev Jr. - UNWE, SU (angel.marchev@feb.uni-sofia.bg)  
 * Angel Marchev Sr. - UNWE (angel_marchev@yahoo.co.uk)
 * Boryana Pelova - SU (bpelova@feb.uni-sofia.bg)
 * Boyan Markov - UNWE (boyanmarkov@gmail.com)   
-* Demir Tonchev -  (tonchev.demir@gmail.com)
+* Demir Tonchev - GoPro (tonchev.demir@gmail.com)
 * Deyan Radev - SU (d.radev@feb.uni-sofia.bg)  
 * Evgeni Marinov - Bosch (marinov.evgeniy@gmail.com)   
 * Kaloyan Haralampiev - SU (k_haralampiev@hotmail.com)
@@ -154,7 +154,7 @@ All students should make sure to watch [these materials in advance...](https://w
 * Mihail Motzev - WWU (Mihail.Motzev@wallawalla.edu)
 * Nikolay Dimitrov - FetchAI (nikolay.dimitrov@fetch.ai)     
 * Pavel Nikolov - Johnson Controls (pavelnnikolov@gmail.com)  
-* Petar Nikolov -  (petarnikolov1989@gmail.com)
+* Petar Nikolov - CuneiForm (petarnikolov1989@gmail.com)
 * Radoslav Rusinov - UNWE (rusinovr@abv.bg)  
 * Sergey Vichev - CrispLabs (serjvichev@gmail.com)  
 * Stanimir Kabaivanov - PU (stanimir.kabaivanov@gmail.com)  
