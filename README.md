@@ -30,10 +30,6 @@
   <tr>
     <th><img src="img/KBC_GS_logo_colors_RGB.png" width="200"></th>
     <th><a href="mailto:angel.marchev@feb.uni-sofia.bg?subject=SummerSchoolPartnership"><img src="https://www.ethicalreading.org.uk/wp-content/uploads/2023/02/PARTNERAsset-48.svg" width="200"></a></th>
-    <td><b>This Summer school is partially funded by<br>  
-* Science and research Fund at Sofia University contract 80-10-107/16.4.2024<br>  
-* University of National and World Economy contract NID NF-10/2024/B<br>   
-* European Union-NextGenerationEU, through the National Recovery and Resilience Plan of the Republic of Bulgaria, project DUECOS BG-RRP-2.004-0001-C01</b>  </td>
   </tr>
   <tr>
     <td>KBC Bank</td>
@@ -54,6 +50,12 @@ Associate Partners
 </center>
 
 -->
+## Acknowledgements 
+This Summer school is partially funded by:  
+* ***Science and research Fund at Sofia University contract 80-10-107/16.4.2024***  
+* ***University of National and World Economy contract NID NF-10/2024/B***   
+* ***European Union-NextGenerationEU, through the National Recovery and Resilience Plan of the Republic of Bulgaria, project DUECOS BG-RRP-2.004-0001-C01***  
+
   
 ## Application  
  
