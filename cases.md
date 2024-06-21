@@ -1,6 +1,7 @@
 ## The cases for this year's Summer school are:
 
-The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 22.06.2024):  
+The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 22.06.2024): 
+ 
 <!-- 
 ### 1. Forecasting the demand of pharmacutical products.  
 
