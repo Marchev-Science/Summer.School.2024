@@ -10,9 +10,9 @@ The cases for this year's Summer school are going to be revieled here on the sec
 
 [Case text and data...](https://github.com/Marchev-Science/case-crypto-trader)  
 
-### 3. Classification of drone radio signiture.     
+### 3. Classification of drone radio signature.     
 
-[Case text and data...](https://github.com/Marchev-Science/case-drone-signiture-classification)  
+[Case text and data...](https://github.com/Marchev-Science/case-drone-signature-classification)  
 
 ### 4. Automate solution of sokoban game       
 
