@@ -16,7 +16,7 @@ The cases for this year's Summer school are going to be revieled here on the sec
 
 ### 4. Automate solution of sokoban game       
 
-[Case text and data...](https://github.com/Marchev-Science/case-sokoban-ai)  
+[Case text and data...](https://github.com/mpSchrader/gym-sokoban)  
 
 -->  
 
