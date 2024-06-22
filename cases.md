@@ -2,7 +2,6 @@
 
 The cases for this year's Summer school are going to be revieled here on the second day of the programme (17:00, 22.06.2024): 
  
-<!-- 
 ### 1. Forecasting the demand of pharmacutical products.  
 
 [Case text and data...](https://github.com/Marchev-Science/case-forecasting-pharmacutical-demand) 
@@ -19,7 +18,7 @@ The cases for this year's Summer school are going to be revieled here on the sec
 
 [Case text and data...](https://github.com/mpSchrader/gym-sokoban)  
 
--->  
+
 
 <!--
 => [Case solution](cases-solutions/case1/readme.md)
