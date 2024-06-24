@@ -4,6 +4,8 @@ The programme is subject to constant change, so make sure to check it regularly.
 You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)  
 
 
+PLease, leave constructive feedback for each lector by filling in this anonymous form: [https://bit.ly/marchev-feedback](https://bit.ly/marchev-feedback)
+
 ## **2024-06-21 Openning**  
   before 19:30 Accomodation   
   
