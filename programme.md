@@ -20,11 +20,13 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 ## **2024-06-22 Fundamentals**  
   09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (Online)  
-  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)  
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](marchev-sr/readme.md)   
 <a/>  
 
   14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments & GPT prompting for modeling  
-  
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](marchev-jr/readme.md)    
 <a/>  
 
 17:00 - 19:30 Workshop: Explaining the cases    
@@ -32,11 +34,13 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 ## **2024-06-23 Data mining**  
   09:30 - 13:00 Alexander Efremov, Kaloyan Haralampiev - Data mining: methods & main tasks  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](efremov/readme.md)   
 <a/>  
 
   14:00 - 17:00 Workshop: Workshop: Kaloyan Haralampiev - Introduction to Orange with static data  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](haralampiev/readme.md)   
 <a/>  
 
   17:00 - 19:30 Workshop: Teamwork on case assignments  
@@ -44,23 +48,28 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 ## **2024-06-24 Probabilities**  
   09:30 - 10:30 Radoslav Rusinov - Introduction to probability  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](rusinov/readme.md)   
 <a/>  
 
   10:45 - 11:45 Kaloyan Haralampiev - Bayesian paradigm  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](haralampiev/readme.md)   
 <a/>  
 
   12:00 - 13:00 Tsvetana Spassova - Statistical testing  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](spasova/readme.md)   
 <a/>  
    
   14:00 - 15:30 Kaloyan Haralampiev, Angel Marchev, Jr. - Time series analysis basics    
- 
+   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+   * [materials](marchev-jr/readme.md)   
 <a/>  
 
   15:30 - 17:00 Kaloyan Haralampiev - Time series case study: Fourier transform  
- 
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](haralampiev/readme.md)   
  <a/>  
 
   17:00 - 19:30 Workshop: Teamwork on case assignments  
@@ -68,15 +77,18 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 ## **2024-06-25 Complexity**  
   09:30 - 13:00 Angel Marchev, Sr. - Cybernetics studying complex systems with feedback (Online)  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](marchev-sr/readme.md)   
 <a/>  
 
   14:00 - 15:00 Workshop: Deyan Radev - Writting a scientific article (Online)      
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](radev/readme.md)   
 <a/>  
 
   15:00 - 17:00 Workshop: Angel Marchev, Jr. - Feature engineering  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](marchev-jr/readme.md)   
 <a/>  
 
   17:00 - 19:30 Workshop: Teamwork on case assignments  
@@ -84,15 +96,18 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 ## **2024-06-26 Applications**  
   09:30 - 11:00 Milen Chechev - Current forecasting approaches and challenges (Online)  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](chechev/readme.md)   
 <a/>  
 
   11:30 - 13:00 Martin Boyanov - Introduction to LLMs, RAG & llm2vec  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](boyanov/readme.md)   
 <a/>  
 
   14:00 - 17:00 Workshop: Yasen Kiprov - AI for coding (Online)  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](kiprov/readme.md)   
 <a/>  
 
   17:30 - 19:30 Workshop: Teamwork on case assignments  
@@ -100,15 +115,18 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 ## **2024-06-27 Artificial Neural Networks**  
   09:30 - 11:00 Stanimir Kabaivanov - Introduction to Artificial Neural Networks (Online)  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](kabaivanov/readme.md)   
 <a/>  
 
   11:30 - 13:00 Mihail Motzev - Statistical Learning Networks (Online)  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](motzev/readme.md)   
 <a/>  
 
   14:00 - 17:00 Workshop: Evgeni Marinov - Graph artificial neural networks (Online)  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](marinov/readme.md)   
 <a/>  
 
   17:30 - 19:30 Workshop: Teamwork on case assignments  
@@ -116,15 +134,18 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
   
 ## **2024-06-28 Artificial Intelligence**  
   09:30 - 11:00 Angel Marchev, Jr. - Introduction to artificial intelligence    
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](marchev-jr/readme.md)   
 <a/>  
 
   11:30 - 13:00 Laura Tolosi - LLMs & NLP (Online)   
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](tolosi/readme.md)   
 <a/>  
 
   14:30 - 17:00 Workshop: Demir Tonchev - Workshop: Make your own AI      
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](tonchev/readme.md)   
 <a/>  
 
   17:00 - 19:30 Workshop: Teamwork on case assignments  
@@ -132,15 +153,18 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
   
 ## **2024-06-29 Self-organization & adaptation**  
   09:30 - 13:00 Angel Marchev, Sr., Angel Marchev, Jr. - Multi-stage selection procedure and Self-organization   
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](marchev-sr/readme.md)   
 <a/>  
 
   14:00 - 16:00 Workshop: Pavel Nikolov - Evolutionary alghorithm for hyperparameter optimization  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](nikolov-pa/readme.md)   
 <a/>  
 
   16:00 - 17:00 Peter Nikolov - Practical introduction to quantum computing  
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](nikolov-pe/readme.md)   
 <a/>  
 
   17:30 - 19:30 Workshop: Teamwork on case assignments    
@@ -148,19 +172,26 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
   
 ## **2024-06-30 Perspectives**  
   09:30 - 10:30 Sergey Vichev - RAGSQL: the concept    
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](vichev/readme.md)   
 <a/>  
 
   10:45 - 11:45 Boryana Pelova - Wavelet and charmonic Analysis    
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](pelova/readme.md)   
 <a/>  
 
-  11:30 - 13:00 Nikolay Dimitrov - FetchAI: AI + Crypto   
-
+  11:30 - 13:00 Nikolay Dimitrov - FetchAI: AI + Crypto (Online)   
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](dimitrov/readme.md)   
 <a/>  
   
   14:00 - 17:00 Conference - presentation of the solutions to the case assignments   
-
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [solution 1](cases/solution1/readme.md)  
+  * [solution 2](cases/solution2/readme.md)  
+  * [solution 3](cases/solution3/readme.md)  
+  * [solution 4](cases/solution4/readme.md)    
 <a/>  
 
   17:00 - 17:30 Closing ceremony  
