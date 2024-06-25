@@ -29,10 +29,12 @@
 <table cellspacing="0" cellpadding="0" border="0">
   <tr>
     <th><img src="img/KBC_GS_logo_colors_RGB.png" width="200"></th>
+    <th><img src="img/manasievi.jpg" width="200"></th>
     <th><a href="mailto:angel.marchev@feb.uni-sofia.bg?subject=SummerSchoolPartnership"><img src="https://www.ethicalreading.org.uk/wp-content/uploads/2023/02/PARTNERAsset-48.svg" width="200"></a></th>
   </tr>
   <tr>
     <td>KBC Bank</td>
+    <td>Svetlozar & Emanuil Manasievi</td>
     <td></td>
   </tr>
  </table>
@@ -105,7 +107,7 @@ After 17:00 working on team assignment"
 3) Presented paper at a conference or seminar, showcasing knowledge and skills educated throughout the Summer school.  
 Note: Participants who cannot take part fulltime and/or would not comply with the requirements can also join classes, but will not receive a certificate.  
   
-<img src="img/summer-school-2023-2.png" width="100%">  
+<img src="img/summer-school-2024-1.jpg" width="100%">  
   
 ## Technical requirements  
 Apart from concentrating during the classes, the aproved participants should make sure to be equipped with a **personal computer (not mobile device)** installed with (all these have compatible versions for any operation system):  
@@ -180,7 +182,7 @@ Summer School on Modeling and Complex Systems
 ## Cases  
 The cases for this year's Summer school are [revieled here...](cases.md) at the start of the Summer school. 
 
-<img src="img/summer-school-2023.jpg" width="100%">
+<img src="img/summer-school-2024.jpg" width="100%">
 
 
 ## Programme  
