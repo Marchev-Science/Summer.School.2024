@@ -24,7 +24,12 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
   * [materials](marchev-sr/readme.md)   
 <a/>  
 
-  14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments & GPT prompting for modeling  
+  14:00 - 15:00 Angel Marchev, Sr. - For fact based worldview (Online)  
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](marchev-sr/readme.md)   
+<a/>  
+
+  15:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments & GPT prompting for modeling  
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](marchev-jr/readme.md)    
 <a/>  
@@ -38,7 +43,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
   * [materials](efremov/readme.md)   
 <a/>  
 
-  14:00 - 17:00 Workshop: Workshop: Kaloyan Haralampiev - Introduction to Orange with static data  
+  14:00 - 17:00 Workshop: Kaloyan Haralampiev - Introduction to Orange with static data  
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](haralampiev/readme.md)   
 <a/>  
@@ -47,32 +52,33 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
   
 
 ## **2024-06-24 Probabilities**  
-  09:30 - 10:30 Radoslav Rusinov - Introduction to probability  
+  09:30 - 10:30 Tsvetana Spassova - Statistical testing  
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [materials](spasova/readme.md)   
+<a/>
+
+  10:45 - 11:45 Radoslav Rusinov - Introduction to probability  
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](rusinov/readme.md)   
 <a/>  
 
-  10:45 - 11:45 Kaloyan Haralampiev - Bayesian paradigm  
+   12:00 - 15:00 Angel Marchev, Jr. - Time series analysis basics    
+   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+   * [materials](marchev-jr/readme.md)   
+
+<a/>  
+
+  15:30 - 16:30 Kaloyan Haralampiev - Bayesian paradigm  
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](haralampiev/readme.md)   
 <a/>  
 
-  12:00 - 13:00 Tsvetana Spassova - Statistical testing  
-  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
-  * [materials](spasova/readme.md)   
-<a/>  
-   
-  14:00 - 15:30 Kaloyan Haralampiev, Angel Marchev, Jr. - Time series analysis basics    
-   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
-   * [materials](marchev-jr/readme.md)   
-<a/>  
-
-  15:30 - 17:00 Kaloyan Haralampiev - Time series case study: Fourier transform  
+  16:45 - 17:30 Kaloyan Haralampiev - Time series case study: Fourier transform  
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](haralampiev/readme.md)   
  <a/>  
 
-  17:00 - 19:30 Workshop: Teamwork on case assignments  
+  17:30 - 19:30 Workshop: Teamwork on case assignments  
   
 
 ## **2024-06-25 Complexity**  
