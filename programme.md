@@ -20,7 +20,7 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
 ## **2024-06-22 Fundamentals**  
   09:30 - 13:00 Angel Marchev, Sr. - The scientific method & General Systems Theory: a systematic approach to research (Online)  
-  
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)  
 <a/>  
 
   14:00 - 17:00 Workshop: Angel Marchev, Jr. - Introduction to software environments & GPT prompting for modeling  
