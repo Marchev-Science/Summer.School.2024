@@ -4,28 +4,25 @@ The cases for this year's Summer school are going to be revieled here on the sec
  
 ### 1. Forecasting the demand of pharmacutical products.  
 
-[Case text and data...](https://github.com/Marchev-Science/case-forecasting-pharmacutical-demand) 
+[Case text and data...](https://github.com/Marchev-Science/case-forecasting-pharmacutical-demand)
+[Solution](cases/solution1/readme.md)
 
 ### 2. Forcasting and automate trading of Crypto assets  
 
-[Case text and data...](https://github.com/Marchev-Science/case-crypto-trader)  
+[Case text and data...](https://github.com/Marchev-Science/case-crypto-trader)
+[Solution](cases/solution2/readme.md)  
 
 ### 3. Classification of drone radio signature.     
 
-[Case text and data...](https://github.com/Marchev-Science/case-drone-signature-classification)  
+[Case text and data...](https://github.com/Marchev-Science/case-drone-signature-classification)
+[Solution](cases/solution3/readme.md)  
 
 ### 4. Automate solution of sokoban game       
 
-[Case text and data...](https://github.com/mpSchrader/gym-sokoban)  
+[Case text and data...](https://github.com/mpSchrader/gym-sokoban)
+[Solution](cases/solution4/readme.md)  
 
 
-
-<!--
-=> [Case solution](cases-solutions/case1/readme.md)
-=> [Case solution](cases-solutions/case2/readme.md)   
-=> [Case solution](cases-solutions/case3/readme.md)   
-=> [Case solution](cases-solutions/case4/readme.md)   
--->   
 
 ## Delivery of the case solutions:
 
