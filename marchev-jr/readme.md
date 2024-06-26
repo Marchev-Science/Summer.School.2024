@@ -8,11 +8,11 @@ Time series:
 [time_series_analysis.pdf](time_series_analysis.pdf)
 [sarimax-text.pdf](sarimax-text.pdf)
 
-Feature engineering:
+Feature engineering:    
 [feature_engineering_slides.html](feature_engineering_slides.html)
 
 Introduction to AI:  
 [intro-to-AI.pdf](intro-to-AI.pdf)
 
-Other:
+Other:  
 [0_portfolio_monografia.pdf](0_portfolio_monografia.pdf)
