@@ -9,7 +9,7 @@ Time series:
 [sarimax-text.pdf](sarimax-text.pdf)
 
 Feature engineering:    
-[feature_engineering_slides.html](feature_engineering_slides.html)
+[feature_engineering.slides.html](feature_engineering.slides.html)
 
 Introduction to AI:  
 [intro-to-AI.pdf](intro-to-AI.pdf)
