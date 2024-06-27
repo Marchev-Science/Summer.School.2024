@@ -5,4 +5,4 @@ Textbook:
 [BusForcNewISBN2Ed.pdf](BusForcNewISBN2Ed.pdf)  
 
 Other:  
-[John_Lennox-2084_Artificial_Intelligence_and_the_Future_of_Humanity-Zondervan_2020.epub](John_Lennox-2084_Artificial_Intelligence_and_the_Future_of_Humanity-Zondervan_2020.epub)  
+[John_Lennox-2084_ Artificial_Intelligence_and_the_Future_of_Humanity-Zondervan_2020.epub](John_Lennox-2084_Artificial_Intelligence_and_the_Future_of_Humanity-Zondervan_2020.epub)  
