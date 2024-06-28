@@ -13,7 +13,7 @@ Feature engineering:
 [feature_engineering.slides.html](feature_engineering.slides.html)  
 
 Introduction to AI:  
-[intro-to-AI.pdf](intro-to-AI.pdf)  
+[intro-to-AI-short.pptx](intro-to-AI-short.pptx)  
 [MAP2021Sharing.pdf](MAP2021Sharing.pdf)  
 
 Other:  
