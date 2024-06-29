@@ -1,7 +1,10 @@
 # Programme  
 
+Link for the online class [https://bit.ly/marchev-class](https://bit.ly/marchev-class)
+
 The programme is subject to constant change, so make sure to check it regularly. All supporting materials and recorded videos are linked in the classes.  
 You could see the [video playlist...](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)  
+
 
 
 PLease, leave constructive feedback for each lector by filling in this anonymous form: [https://bit.ly/marchev-feedback](https://bit.ly/marchev-feedback)
