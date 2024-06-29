@@ -184,14 +184,16 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](vichev/readme.md)   
 <a/>  
+
 <!--
   10:45 - 11:45 Boryana Pelova - Wavelet and charmonic Analysis    
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](pelova/readme.md)   
 <a/>  
--->
+-->  
+
   11:30 - 13:00 Nikolay Dimitrov - FetchAI: AI + Crypto (Online)   
-  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
+  * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)  
   * [materials](dimitrov/readme.md)   
 <a/>  
   
