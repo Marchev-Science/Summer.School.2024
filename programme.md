@@ -180,16 +180,16 @@ PLease, leave constructive feedback for each lector by filling in this anonymous
 
   
 ## **2024-06-30 Perspectives**  
-  09:30 - 10:30 Sergey Vichev - RAGSQL: the concept    
+  09:30 - 11:00 Sergey Vichev - RAGSQL: the concept    
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](vichev/readme.md)   
 <a/>  
-
+<!--
   10:45 - 11:45 Boryana Pelova - Wavelet and charmonic Analysis    
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](pelova/readme.md)   
 <a/>  
-
+-->
   11:30 - 13:00 Nikolay Dimitrov - FetchAI: AI + Crypto (Online)   
   * [video](https://www.youtube.com/playlist?list=PLX9ryRl9v7BADKVQBPdSUZoJrN2yONVnd)
   * [materials](dimitrov/readme.md)   
