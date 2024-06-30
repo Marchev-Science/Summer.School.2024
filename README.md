@@ -144,7 +144,6 @@ All students should make sure to watch [these materials in advance...](https://w
 * Alexander Efremov - TU Sofia, Autegrity (aefremov@gmail.com)  
 * Angel Marchev Jr. - UNWE, SU (angel.marchev@feb.uni-sofia.bg)  
 * Angel Marchev Sr. - UNWE (angel_marchev@yahoo.co.uk)
-* Boryana Pelova - SU (bpelova@feb.uni-sofia.bg)
 * Boyan Markov - UNWE (boyanmarkov@gmail.com)   
 * Demir Tonchev -  (tonchev.demir@gmail.com)
 * Deyan Radev - SU (d.radev@feb.uni-sofia.bg)  
