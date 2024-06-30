@@ -73,7 +73,7 @@ This Summer school is partially funded by:
 Only some applications would be approved, who will be notified by e-mail on June 06 and will recieve further instructions.    
 Participation in the Summer school is free of charge (accomodation is partially covered by the the organizers - read further).  
 
-<img src="img/summer-school-2024-2.png" width="100%">
+<img src="img/summer-school-2024-2.jpg" width="100%">
 
 ## Main objectives  
 * Creating an attitude for studying and applying scientific methods in research.  
